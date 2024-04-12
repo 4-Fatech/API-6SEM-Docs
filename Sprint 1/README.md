@@ -16,6 +16,7 @@ RF8 - Utilizar a câmera da entrada para contabilizar as pessoas que entraram e 
 
 
 ## 💾 Modelo do Banco de Dados
+O modelo de banco de dados utilizado e desenvolvido nessa sprint foi:
 
 ![alt text](Img/Modelo_logico.png)
 
@@ -25,6 +26,7 @@ RF8 - Utilizar a câmera da entrada para contabilizar as pessoas que entraram e 
 
 ## Vídeo da Sprint 1
 
+***Por favor, para o carregamento das gifs espere alguns segundos.***
 - Monitoramento do fluxo de pessoas em tempo real - IA
 ![IA (1)](https://github.com/4-Fatech/API-6SEM-Docs/assets/89141910/9b718fcf-1af9-4d37-ba17-5a8953aeda4c)
 
