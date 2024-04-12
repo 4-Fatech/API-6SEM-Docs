@@ -23,14 +23,13 @@ RF8 - Utilizar a câmera da entrada para contabilizar as pessoas que entraram e 
 ## 🎨 Mockups
 ![alt text](Img/Mockups.jpg)
 
+## Vídeo da Sprint 1
 
+- Monitoramento do fluxo de pessoas em tempo real - IA
+![IA (1)](https://github.com/4-Fatech/API-6SEM-Docs/assets/89141910/9b718fcf-1af9-4d37-ba17-5a8953aeda4c)
 
+- Visualização do fluxo de pessoas em tempo real - Frontend
+![historico (1)](https://github.com/4-Fatech/API-6SEM-Docs/assets/89141910/240324d8-b81a-4fde-a98e-9f834c69bec6)
 
-
-
-
-
-
-
-
+- 📂 Pasta completa dos materiais desenvolvidos na sprint 1 - [Link](https://drive.google.com/drive/folders/1Z6rl5nGkvD1bf-cNF6al9NBHzDnzO9gJ)
 
