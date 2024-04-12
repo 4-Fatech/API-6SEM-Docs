@@ -89,7 +89,8 @@ Atualmente o frontend pode ser consultado online a partir do site: https://api-6
 Atualmente o backend pode ser consultado online a partir do site: https://api-6sem-back.onrender.com/
 E também as **rotas** do backend estão documentadas em: https://api-6sem-back.onrender.com/swagger-ui/index.html
 
-## 🎥 Vídeo Sprint 1
+## 🎥 Vídeos das Sprints
+ - [Sprint 1](https://github.com/4-Fatech/API-6SEM-Docs/tree/main/Sprint%201#v%C3%ADdeo-da-sprint-1)
 
 ## 🦸 Autores
 <div style="display: flex; justify-content: center;align-items: center;">
