@@ -81,6 +81,12 @@ O layout da aplicação está disponível no Figma:
 
 ## 📊 Modelo Entidade Relacionamento
 
+Nosso banco de dados para a aplicação foi idealizado desta maneira:
+
+![mer](https://github.com/4-Fatech/API-6SEM-Docs/assets/89141910/d75d59ca-b66e-4e7d-bfc8-65d0365aebac)
+
+---
+
 ## ✅ Deploy
 <h3><a href="https://github.com/4-Fatech/API-6SEM-Front">API-6SEM-Front</a></h3>
 Atualmente o frontend pode ser consultado online a partir do site: https://api-6semestre-front.onrender.com/
