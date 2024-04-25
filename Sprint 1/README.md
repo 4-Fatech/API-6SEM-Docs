@@ -15,7 +15,27 @@ RF6 - Desenvolver um CRUD (Criar, Ler, Alterar e Deletar) de Redzone.
 RF8 - Utilizar a câmera da entrada para contabilizar as pessoas que entraram e saíram da Redzone.
 
 
-## 💾 Modelo do Banco de Dados
+
+### Critérios de aceitação
+
+Rank 1 :
+- A inteligência artificial deve ser capaz de contar as pessoas que entram e saem com base nas imagens da câmera da entrada da redzone.
+
+- Os registros de entrada e saída de pessoas devem ser salvos no banco de dados.
+
+Rank 2 : 
+- A visualização dos registros deve ser clara e organizada, expondo as seguintes informações; data e horária das entradas e saídas da redzone.
+
+Rank 3 : 
+ - A visualização em tempo real deve ser precisa e atualizada continuamente conforme as pessoas entram e saem da redzone.
+
+
+Rank 4 : 
+ - A interface de busca deve permitir ao gerente filtrar os registros de acesso à redzone por data específica.
+ - Os resultados da busca devem ser apresentados de forma clara e organizada em uma tabela, incluindo informações como horários de entrada e saída.
+
+
+## 📝 Modelo do Banco de Dados
 O modelo de banco de dados utilizado e desenvolvido nessa sprint foi:
 
 ![alt text](Img/Modelo_logico.png)
@@ -23,6 +43,9 @@ O modelo de banco de dados utilizado e desenvolvido nessa sprint foi:
 
 ## 🎨 Mockups
 ![alt text](Img/Mockups.jpg)
+
+## 💾 Dados
+O dataset utilizado para o treinamento da IA é o YOLO-V8. Para acessar a documentação completa deste dataset, você pode visitar o repositório oficial no GitHub: [Documentação](https://github.com/autogyro/yolo-V8)
 
 ## Vídeo da Sprint 1
 

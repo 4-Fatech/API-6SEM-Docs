@@ -87,6 +87,11 @@ Nosso banco de dados para a aplicação foi idealizado desta maneira:
 
 ---
 
+## 💾 Dados
+O dataset utilizado para o treinamento da IA é o YOLO-V8. Para acessar a documentação completa deste dataset, você pode visitar o repositório oficial no GitHub: [Documentação](https://github.com/autogyro/yolo-V8)
+
+---
+
 ## ✅ Deploy
 <h3><a href="https://github.com/4-Fatech/API-6SEM-Front">API-6SEM-Front</a></h3>
 Atualmente o frontend pode ser consultado online a partir do site: https://api-6semestre-front.onrender.com/
