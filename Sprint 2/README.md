@@ -8,18 +8,21 @@
 | 2 | Média | Como gerente geral, quero uma página inicial que me permita acessar facilmente todas os departamentos monitorados, incluindo métricas importantes como capacidade atual e alertas ativos, para facilitar o gerenciamento. | 15 | 2 | RF7 |
 | 3 | Média | Como gerente geral, quero poder criar uma nova redzone no sistema ela tem que estar atrelada ao departamento que sou responsável, fornecendo informações como nome, responsável, câmera e capacidade máxima, para cadastrar as novas redzones.| 15 | 2 | RF6 |
 | 4 | Média | Como gerente geral, quero uma página inicial que me permita acessar facilmente todas as informações como métricas importantes como capacidade atual, alertas ativos e responsável pela redzone, para facilitar o gerenciamento. | 15 | 2 | RF6 |
-| 5 | Média |Como gerente, desejo uma ferramenta que permita filtrar (por período desejado) os dados de acesso para comparação, para analisar tendências e identificar variações significativas. | 15 | 2 | RF3 |
-| 6 | Média | Como gerente geral, quero poder alterar os dados de um determinado departamento no sistema, para poder cadastrar e corrigir dados já existentes. | 10 | 2 | RF7 |
-| 7 | Média | Como gerente geral, quero poder alterar os dados de uma determinada redzone no sistema, para poder cadastrar e corrigir dados já existentes. | 10 | 2 | RF6 |
-| 8 | Média | Como gerente geral, quero poder cadastrar um novo usuário no sistema, fornecendo seu nome, e-mail, matrícula da empresa e tipo de usuário, (guarda, gerente de área), para garantir que a equipe de segurança esteja completa e atualizada. | 10 | 2 | RF5 |
-| 9 | Média | Como gerente geral, desejo uma funcionalidade que me permita visualizar todos os usuários do sistema, sendo os gerentes de área e guardas, para ter uma visão geral da equipe de segurança. | 10 | 2 | RF5 |
-| 10 | Média | Como gerente geral, quero poder alterar do usuário, para lidar com mudanças dos dados da equipe. | 10 | 2 | RF5 |
-| 11 | Média | Como gerente geral, quero poder desativar um determinado departamento, para garantir a segurança e integridade das áreas monitoradas. | 5 | 2 | RF7|
-| 12 | Média | Como gerente geral, quero poder desativar uma determinada redzone, para garantir a segurança e integridade das áreas monitoradas. | 5 | 2 | RF6 |
-| 13 | Média | Como gerente geral, quero poder desativar um usuário, para impedir o acesso quando necessário. | 5 | 2 | RF5 |
+| 5 | Média | Como gerente, desejo uma ferramenta que permita filtrar (por período desejado) os dados de acesso para comparação, para analisar tendências e identificar variações significativas. | 15 | 2 | RF3 |
+| 6 | Média | Como gerente, desejo uma função de exportação de dados que me permita baixar relatórios detalhados contendo todas as datas e horários de entrada e saída na redzone durante o período escolhido, para análise externa.| 15 | 2 | RF4 |
+| 7 | Média | Como gerente geral, quero poder alterar os dados de um determinado departamento no sistema, para poder cadastrar e corrigir dados já existentes. | 10 | 2 | RF7 |
+| 8 | Média | Como gerente geral, quero poder alterar os dados de uma determinada redzone no sistema, para poder cadastrar e corrigir dados já existentes. | 10 | 2 | RF6 |
+| 9 | Média | Como gerente geral, quero poder cadastrar um novo usuário no sistema, fornecendo seu nome, e-mail, matrícula da empresa e tipo de usuário, (guarda, gerente de área), para garantir que a equipe de segurança esteja completa e atualizada. | 10 | 2 | RF5 |
+| 10 | Média | Como gerente geral, desejo uma funcionalidade que me permita visualizar todos os usuários do sistema, sendo os gerentes de área e guardas, para ter uma visão geral da equipe de segurança. | 10 | 2 | RF5 |
+| 11 | Média | Como gerente geral, quero poder alterar do usuário, para lidar com mudanças dos dados da equipe. | 10 | 2 | RF5 |
+| 12 | Média | Como gerente geral, quero poder desativar um determinado departamento, para garantir a segurança e integridade das áreas monitoradas. | 5 | 2 | RF7|
+| 13 | Média | Como gerente geral, quero poder desativar uma determinada redzone, para garantir a segurança e integridade das áreas monitoradas. | 5 | 2 | RF6 |
+| 14 | Média | Como gerente geral, quero poder desativar um usuário, para impedir o acesso quando necessário. | 5 | 2 | RF5 |
 
 
 RF3 - Filtros de período para análise dos dados.
+
+RF4 - Geração de relatórios para compartilhamento.
 
 RF5 - Desenvolver um CRUD (Criar, Ler, Alterar e Deletar) de Usuários.
 
@@ -55,37 +58,44 @@ Rank 5 :
 - O sistema deve permitir a seleção da redzone.
 - Deve ser possível escolher o período desejado, com uma data de início e uma data de fim para a seleção.
 
-Rank 6 :
+
+Rank 6 : 
+
+- O sistema deve fornecer uma função de exportação de dados claramente visível e acessível para o usuário.
+- O relatório exportado deve incluir informações detalhadas sobre todas as datas e horários de entrada e saída na redzone durante o período selecionado.
+- O relatório deve ser exportado em formatos comuns e compatíveis, como Excel e Csv, para facilitar a análise externa.
+
+Rank 7 :
 
 - Poder modificar informações como nome, responsável do departamento existente.
 - Após a alteração dos dados, as informações atualizadas devem ser refletidas imediatamente no sistema.
 
-Rank 7 :
+Rank 8 :
 
 - O gerente geral pode modificar informações como nome, responsável e capacidade máxima de uma redzone existente.
 - Após a alteração dos dados, as informações atualizadas devem ser refletidas imediatamente no sistema.
 
-Rank 8 :
-- O sistema deve possuir os campos citados anteriormente.
+Rank 9 :
+- O sistema deve possuir os seguintes campos nome, e-mail, matrícula da empresa, senha e tipo de usuário, (guarda, gerente de área).
 - Ficar disponível no sistema para poder ser selecionado. Se for um guarda, será alocado na redzone; se for um gerente de área no departamento.
 
-Rank 9 :
+Rank 10 :
 - Deve exibir todos os usuários, incluindo as informações como nome, e-mail, matricula da empresa e tipo de usuário (gerente de área ou guarda).
 - As informações exibidas na página inicial devem ser atualizadas automaticamente conforme ocorrem mudanças nos usuários.
 
-Rank 10 :
+Rank 11 :
 - Pode modificar informações como nome, e-mail, matrícula da empresa e tipo de usuário.
 - Após a alteração dos dados, as informações atualizadas devem ser refletidas imediatamente no sistema.
 
-Rank 11 :
+Rank 12 :
 - O departamento desativado deve ser claramente identificado no sistema como inativa.
 - Ao desativar o departamento, todas as atividades de monitoramento e acesso devem ser interrompidas para garantir a segurança e integridade da área.
 
-Rank 12 :
+Rank 13 :
 - Quando a redzone é desativada deve ser claramente identificado no sistema como inativa.
 - Ao desativar a redzone, todas as atividades de monitoramento e acesso da redzone devem ser interrompidas para garantir a segurança e integridade da área.
 
-Rank 13 :
+Rank 14 :
 - O usuário desativado deve ser claramente identificado no sistema como inativa.
 - Ao desativar o usuário, o acesso dele do sistema deve ser contado.
 
