@@ -16,21 +16,32 @@ RF8 - Utilizar a câmera da entrada para contabilizar as pessoas que entraram e 
 
 
 
-### Critérios de aceitação
 
-Rank 1 :
+## 📋  User Stories e Critérios de Aceitação
+
+#### US #1:  Como gerente, quero que use uma inteligência artificial que utilize a câmera na entrada da redzone para fazer a contagem de pessoas que saíram e entraram dela, para não precisar fazer uma contagem manual.
+
+Critérios de aceitação:
+
 - A inteligência artificial deve ser capaz de contar as pessoas que entram e saem com base nas imagens da câmera da entrada da redzone.
 
 - Os registros de entrada e saída de pessoas devem ser salvos no banco de dados.
 
-Rank 2 : 
+
+#### US #2: Como gerente, desejo ter a capacidade de visualizar os registros de acesso à redzone, a fim de identificar precisamente os horários de entrada e saída dos usuários, possibilitando um monitoramento eficaz das atividades.
+Critérios de aceitação:
+
 - A visualização dos registros deve ser clara e organizada, expondo as seguintes informações; data e horária das entradas e saídas da redzone.
 
-Rank 3 : 
+
+#### US #3: Como gerente, desejo visualizar em tempo real a quantidade de pessoas na redzone, para poder monitorar efetivamente a presença de indivíduos nessa área específica. 
+Critérios de aceitação:
+
  - A visualização em tempo real deve ser precisa e atualizada continuamente conforme as pessoas entram e saem da redzone.
 
+#### US #4: Como gerente, desejo uma interface de busca que utilize a data como filtro e apresente os resultados em uma tabela, incluindo os horários de entrada e saída na redzone, para facilitar futuras análises de dados.
+Critérios de aceitação:
 
-Rank 4 : 
  - A interface de busca deve permitir ao gerente filtrar os registros de acesso à redzone por data específica.
  - Os resultados da busca devem ser apresentados de forma clara e organizada em uma tabela, incluindo informações como horários de entrada e saída.
 
