@@ -368,6 +368,24 @@ O layout da aplicação está disponível no Figma:
 ## 💾 Dados
 O dataset utilizado para o treinamento da IA é o YOLO-V8. Para acessar a documentação completa deste dataset, você pode visitar o repositório oficial no GitHub: [Documentação](https://github.com/autogyro/yolo-V8)
 
+## Video da Sprint 2
+***Por favor, para o carregamento das gifs espere alguns segundos.***
+- Criar, Deletar, vizualizar e Alterar Usuarios
+![crud usuarios](https://github.com/4-Fatech/API-6SEM-Docs/assets/88494278/829a487b-fb2b-4df7-aebc-6e7186b88675)
+- Criar, Deletar, vizualizar e Alterar Departamentos
+![crud departamentos](https://github.com/4-Fatech/API-6SEM-Docs/assets/88494278/4626e08a-285e-4f95-abd5-9ccc295ede66)
+- Criar, Deletar, vizualizar e Alterar Redzones
+![crud redzone](https://github.com/4-Fatech/API-6SEM-Docs/assets/88494278/6579b810-eeaf-4556-aefb-cd77f86829df)
+- Filtro de Redzones
+![filtro redzones](https://github.com/4-Fatech/API-6SEM-Docs/assets/88494278/0fb8b127-f259-4aec-a516-c11925e6cb49)
+- IA Contador
+![IA link](https://drive.google.com/drive/folders/1hxaFBrcK-wz19VwocaK4iVY4c_-YOyjK?usp=sharing)
+- IA Contador de Multiplas Redzones
+![IA link](https://drive.google.com/drive/folders/1hxaFBrcK-wz19VwocaK4iVY4c_-YOyjK?usp=sharing)
+
+
+
+
 
 
 
