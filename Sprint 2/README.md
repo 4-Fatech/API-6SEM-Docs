@@ -379,9 +379,9 @@ O dataset utilizado para o treinamento da IA é o YOLO-V8. Para acessar a docume
 - Filtro de Redzones
 ![filtro redzones](https://github.com/4-Fatech/API-6SEM-Docs/assets/88494278/0fb8b127-f259-4aec-a516-c11925e6cb49)
 - IA Contador
-![IA link](https://drive.google.com/drive/folders/1hxaFBrcK-wz19VwocaK4iVY4c_-YOyjK?usp=sharing)
+[link](https://drive.google.com/drive/folders/1hxaFBrcK-wz19VwocaK4iVY4c_-YOyjK?usp=sharing)
 - IA Contador de Multiplas Redzones
-![IA link](https://drive.google.com/drive/folders/1hxaFBrcK-wz19VwocaK4iVY4c_-YOyjK?usp=sharing)
+[link](https://drive.google.com/drive/folders/1hxaFBrcK-wz19VwocaK4iVY4c_-YOyjK?usp=sharing)
 
 
 
