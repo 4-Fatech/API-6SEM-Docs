@@ -15,35 +15,104 @@ RF6 - Desenvolver um CRUD (Criar, Ler, Alterar e Deletar) de Redzone.
 RF8 - Utilizar a câmera da entrada para contabilizar as pessoas que entraram e saíram da Redzone.
 
 
-
-
-## 📋  User Stories e Critérios de Aceitação
+## 📋  User Stories, Critérios de Aceitação e Use Case
 
 #### US #1:  Como gerente, quero que use uma inteligência artificial que utilize a câmera na entrada da redzone para fazer a contagem de pessoas que saíram e entraram dela, para não precisar fazer uma contagem manual.
 
-Critérios de aceitação:
+#### Critérios de aceitação:
 
 - A inteligência artificial deve ser capaz de contar as pessoas que entram e saem com base nas imagens da câmera da entrada da redzone.
 
 - Os registros de entrada e saída de pessoas devem ser salvos no banco de dados.
 
 
+#### Use Case: 
+
+Pré-condições:
+- O sistema de contagem automática de pessoas está configurado e funcionando corretamente.
+- A câmera na entrada da redzone está conectada e operacional.
+
+Fluxo Principal:
+- A inteligência artificial utiliza a câmera na entrada da redzone para detectar e contar as pessoas que entram e
+e saíram.
+- A contagem é registrada pelo sistema e atualizada em tempo real.
+- O Gerente monitora a contagem de pessoas na redzone por meio de uma interface dedicada.
+
+Fluxo Alternativo:
+- Se houver uma interrupção na conexão da câmera ou no funcionamento da inteligência artificial:
+- O sistema exibe uma mensagem de erro indicando o problema.
+- O Gerente é notificado sobre a falha e toma as medidas necessárias para resolver o problema.
+
+
 #### US #2: Como gerente, desejo ter a capacidade de visualizar os registros de acesso à redzone, a fim de identificar precisamente os horários de entrada e saída dos usuários, possibilitando um monitoramento eficaz das atividades.
-Critérios de aceitação:
+
+#### Critérios de aceitação:
 
 - A visualização dos registros deve ser clara e organizada, expondo as seguintes informações; data e horária das entradas e saídas da redzone.
 
+#### Use Case: 
+
+Pré-condições:
+- Os registros de acesso à redzone estão armazenados no sistema.
+- O sistema de visualização de registros está operacional.
+
+Fluxo Principal:
+- O Gerente acessa a interface de visualização da redzone.
+- O sistema recupera os registros de acesso armazenados no banco de dados.
+- Os registros são apresentados ao Gerente em uma interface amigável, mostrando os horários de entrada e saída dos usuários.
+
+Fluxo Alternativo:
+- Se não houver registros de acesso disponíveis para a data especificada:
+- O sistema exibe uma mensagem indicando a falta de registros.
+
+
 
 #### US #3: Como gerente, desejo visualizar em tempo real a quantidade de pessoas na redzone, para poder monitorar efetivamente a presença de indivíduos nessa área específica. 
-Critérios de aceitação:
 
- - A visualização em tempo real deve ser precisa e atualizada continuamente conforme as pessoas entram e saem da redzone.
+#### Critérios de aceitação:
+
+- A visualização em tempo real deve ser precisa e atualizada continuamente conforme as pessoas entram e saem da redzone.
+
+#### Use Case: 
+
+Pré-condições:
+- O sistema de contagem automática de pessoas na redzone está operacional.
+
+Fluxo Principal:
+- O Gerente acessa a interface de visualização da redzone.
+- O sistema exibe dinamicamente a quantidade atual de pessoas na redzone, atualizando em tempo real.
+- O Gerente monitora a quantidade de pessoas na redzone conforme necessário.
+
+Fluxo Alternativo:
+- Se houver uma falha na contagem automática de pessoas:
+- O sistema exibe uma mensagem de erro indicando a falha.
+
+
 
 #### US #4: Como gerente, desejo uma interface de busca que utilize a data como filtro e apresente os resultados em uma tabela, incluindo os horários de entrada e saída na redzone, para facilitar futuras análises de dados.
-Critérios de aceitação:
 
- - A interface de busca deve permitir ao gerente filtrar os registros de acesso à redzone por data específica.
- - Os resultados da busca devem ser apresentados de forma clara e organizada em uma tabela, incluindo informações como horários de entrada e saída.
+#### Critérios de aceitação:
+
+- A interface de busca deve permitir ao gerente filtrar os registros de acesso à redzone por data específica.
+- Os resultados da busca devem ser apresentados de forma clara e organizada em uma tabela, incluindo informações como horários de entrada e saída.
+
+#### Use Case: 
+
+Pré-condições:
+- Os registros de acesso à redzone estão armazenados no sistema.
+
+Fluxo Principal:
+- O Gerente acessa a interface de busca para análise de dados.
+- O Gerente insere os critérios de busca desejados, como datas específicas.
+- O sistema filtra os registros de acesso à redzone com base nos critérios de busca inseridos.
+- Os registros filtrados são apresentados ao Gerente em uma tabela formatada.
+
+Fluxo Alternativo:
+- Se não houver registros correspondentes aos critérios de busca inseridos:
+- O sistema exibe uma mensagem indicando a ausência de registros para os critérios especificados.
+- Se não houver registros de acesso disponíveis para a data especificada:
+- O Gerente é informado de que não há registros para a data selecionada.
+
 
 
 ## 📝 Modelo do Banco de Dados
