@@ -47,27 +47,25 @@ Para melhor entendimento do andamento do projeto e organização, optamos por im
 No projeto, estamos utilizando a estratégia de versionamento através de branches.
 
 <h3><a href="https://github.com/4-Fatech/API-6SEM-Front">API-6SEM-Front</a></h3>
-No repositório do frontend, atualmente existem 2 branchs no projeto, sendo elas a main e a dev.
+No repositório do frontend, existem duas ramificações(branches) que dividem o projeto: a main, que contém o conteúdo funcional, e a dev, que abriga o projeto em desenvolvimento.
 
-A branch dev é dedicada ao desenvolvimento do projeto, que, ao longo da sprint são criadas as issues e a partir delas os PR's (pull requests) em que cada pull request é criado uma branch nova para a resolução da issue e assim que é solucionada é mergeada na branch dev.
-Ao final da sprint a branch dev é mergeada com a main e por fim é criado a tag da sprint, para termos um melhor controle do código durante o processo.
-A ação de merge com a main só pode ser feito após um review, afim de evitar o comprometimento da branch.
+A branch dev é dedicada ao desenvolvimento do projeto. Durante a sprint, são criadas issues, desempenhando o papel de sugestão, rastreamento ou tarefas relacionadas ao projeto. A partir dessas issues, são criadas branches para desenvolver as soluções. Em seguida, são abertos os PRs (pull requests), cuja função é integrar as novas funcionalidades ao projeto. Cada PR é associado a uma branch específica, onde a solução da issue é desenvolvida. Uma vez que a solução é completa, ela é mergeada na branch dev.
+
+Ao final da sprint, a branch dev é mergeada com a main e, por fim, é criada a tag da sprint para melhor controle do código durante o processo. A ação de merge com a main só pode ser realizada após uma revisão, a fim de evitar comprometer a branch.
 
 <h3><a href="https://github.com/4-Fatech/API-6SEM-Back">API-6SEM-Back</a></h3>
-No repositório do backend, atualmente existem 3 branchs no projeto, sendo elas a main, deploy-render e a dev.
+A branch deploy-render foi criada a partir da branch dev com o objetivo de facilitar o processo de enviar o projeto para uma plataforma chamada Render. Isso permite que a aplicação seja automaticamente preparada para uso.
 
-A branch deploy render é uma ramificação da branch dev, ela foi criada com o intuito de viabilizar o upload do projeto no render, possibilitando o build automatico da aplicação.
+A branch dev é usada para trabalhar no desenvolvimento do projeto. Durante um período de trabalho chamado sprint, são identificados problemas ou melhorias que precisam ser feitas, chamados de issues. A partir dessas issues, são propostas soluções, chamadas de pull requests (PRs). Cada PR é como uma proposta de mudança no projeto e é feito em uma nova ramificação (branch) que é criada especificamente para resolver esse problema. Quando a solução é desenvolvida e considerada pronta, ela é integrada de volta à branch dev.
 
-A branch dev é dedicada ao desenvolvimento do projeto, que, ao longo da sprint são criadas as issues e a partir delas os PR's (pull requests) em que cada pull request é criado uma branch nova para a resolução da issue e assim que é solucionada é mergeada na branch dev.
-Ao final da sprint a branch dev é mergeada com a main e por fim é criado a tag da sprint, para termos um melhor controle do código durante o processo.
-A ação de merge com a main só pode ser feito após um review, afim de evitar o comprometimento da branch.
+Ao final da sprint, todas as mudanças feitas na branch dev são reunidas e integradas à branch principal, main. Isso é feito para garantir que todas as novas funcionalidades e correções de bugs estejam presentes na versão principal do projeto. Além disso, é criada uma "etiqueta" para identificar as mudanças feitas durante essa sprint, o que facilita o acompanhamento do progresso do projeto.
 
 <h3><a href="https://github.com/4-Fatech/API-6SEM-AI">API-6SEM-AI</a></h3>
-No repositório da IA, atualmente existem 2 branchs no projeto, sendo elas a main e a dev.
+No repositório da IA, atualmente existem duas ramificações (ou branches) no projeto: a main e a dev.
 
-A branch dev é dedicada ao desenvolvimento do projeto, que, ao longo da sprint são criadas as issues e a partir delas os PR's (pull requests) em que cada pull request é criado uma branch nova para a resolução da issue e assim que é solucionada é mergeada na branch dev.
-Ao final da sprint a branch dev é mergeada com a main e por fim é criado a tag da sprint, para termos um melhor controle do código durante o processo.
-A ação de merge com a main só pode ser feito após um review, afim de evitar o comprometimento da branch.
+A branch dev é reservada para o desenvolvimento contínuo do projeto. Durante um período de trabalho conhecido como sprint, são identificados problemas ou melhorias necessárias, chamados de issues. A partir dessas issues, são propostas soluções, chamadas de pull requests (PRs). Para cada PR, é criada uma nova ramificação (branch) específica para resolver o problema em questão. Assim que a solução é implementada e considerada pronta, ela é integrada de volta à branch dev.
+
+Ao final da sprint, todas as alterações feitas na branch dev são consolidadas e integradas à branch principal, main. Isso é feito para garantir que todas as novas funcionalidades e correções de bugs estejam presentes na versão principal do projeto. Além disso, é criada uma "etiqueta" para identificar as mudanças feitas durante essa sprint, o que facilita o acompanhamento do progresso do projeto.
 
 ## 🎨 Layout - Mockups
 
@@ -102,6 +100,7 @@ E também as **rotas** do backend estão documentadas em: https://api-6sem-back.
 
 ## 🎥 Vídeos das Sprints
  - [Sprint 1](https://github.com/4-Fatech/API-6SEM-Docs/tree/main/Sprint%201#v%C3%ADdeo-da-sprint-1)
+ - [Sprint 2](https://github.com/4-Fatech/API-6SEM-Docs/tree/main/Sprint%202)
 
 ## 🦸 Autores
 <div style="display: flex; justify-content: center;align-items: center;">
