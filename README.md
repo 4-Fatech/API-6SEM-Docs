@@ -2,12 +2,13 @@
 	<img alt="Logo Fatech" title="#Fatech" src="https://github.com/4-Fatech/API-6SEM-Front/blob/main/public/logo.png" />
 </h4>
 <p align="center">
- <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-Padronização de commit's">Padronização de commit's</a> •
- <a href="#-Estratégia de Branches">Estratégia de Branches</a> •
- <a href="#-Modelo Entidade Relacionamento">MER</a> •
-  <a href="#-Deploy">Deploy</a> •
- <a href="#-Vídeo Sprint 1">Sprint 1</a> • 
+	<a href="#-sobre-o-projeto">Sobre</a> •
+	<a href="#-Padronização-de-commit's">Padronização de commit's</a> •
+	<a href="#-Estratégia-de-Branches">Estratégia de Branches</a> •
+	<a href="#-Modelo-Entidade-Relacionamento">MER</a> •
+	<a href="#-Deploy">Deploy</a> •
+	<a href="#-Vídeos-das-Sprints">Vídeos</a> • 
+	<a href="#-Autores">Autores</a>
 </p>
 
 ## 💻 Sobre o projeto
