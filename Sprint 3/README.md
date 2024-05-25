@@ -23,13 +23,12 @@ Departamento e Gerente geral) de acesso para o projeto.
 
 ### **US #1:** Como gerente, quero que use uma inteligência artificial que utilize a câmera na entrada da redzones para fazer a contagem de pessoas que saíram e entraram dela, para não precisar fazer uma contagem manual. 
 
-
 ### **Critérios de aceitação:**
 
-**Cenário 1 – Fluxo Principal de Contagem de Pessoas**
+### **Cenário 1 – Fluxo Principal de Contagem de Pessoas** 
 
 <small>
-
+  
 **DADO QUE :**<br>
 - O sistema de contagem automática de pessoas está configurado e funcionando corretamente<br>
 - A câmera na entrada da redzone está conectada e operacional<br>
@@ -39,12 +38,11 @@ Departamento e Gerente geral) de acesso para o projeto.
 
 **ENTÃO :**<br>
 - A contagem será registrada pelo sistema e atualizada em tempo real<br>
-
 - O Gerente poderá monitorar a contagem de pessoas na redzone por meio de uma interface dedicada
 
 </small>
 
-**Cenário 2 – Condições de luz**
+### **Cenário 2 – Condições de luz**
 
 <small>
 
@@ -61,7 +59,7 @@ Departamento e Gerente geral) de acesso para o projeto.
 
 </small>
 
-**Cenário 3 – Variação de Distâncias:**
+### **Cenário 3 – Variação de Distâncias:**
 
 <small>
 
@@ -96,7 +94,7 @@ Departamento e Gerente geral) de acesso para o projeto.
 
 ### **Critérios de aceitação:**
 
-**Cenário 1 – Acesso ao Departamento e Geração de Relatório**
+### **Cenário 1 – Acesso ao Departamento e Geração de Relatório**
 
 <small>
 
@@ -117,7 +115,7 @@ Departamento e Gerente geral) de acesso para o projeto.
 </small>
 
 
-**Cenário 2 – Sem Departamentos Cadastrados**
+### **Cenário 2 – Sem Departamentos Cadastrados**
 
 <small>
 
@@ -132,7 +130,7 @@ Departamento e Gerente geral) de acesso para o projeto.
 
 </small>
 
-**Cenário 3 – Sem Registros de Logs**
+### **Cenário 3 – Sem Registros de Logs**
 
 <small>
 
@@ -160,11 +158,11 @@ Departamento e Gerente geral) de acesso para o projeto.
 
 </small>
 
-#### **US #20:** Como Gerente Geral, quero um login que gerencie o acesso de usuários com diferentes níveis de permissão, incluindo guardas, gerentes de área e outros gerentes gerai, para que cada usuário tenha acesso apenas as partes do sistema relevantes para suas responsabilidades, mantendo assim a segurança e a integridade dos dados da empresa.
+### **US #20:** Como Gerente Geral, quero um login que gerencie o acesso de usuários com diferentes níveis de permissão, incluindo guardas, gerentes de área e outros gerentes gerai, para que cada usuário tenha acesso apenas as partes do sistema relevantes para suas responsabilidades, mantendo assim a segurança e a integridade dos dados da empresa.
 
-#### **Critérios de aceitação:**
+### **Critérios de aceitação:**
 
-**Cenário 1 – Login com Credenciais Corretas**
+### **Cenário 1 – Login com Credenciais Corretas**
 
 <small>
 
@@ -181,7 +179,7 @@ Departamento e Gerente geral) de acesso para o projeto.
 
 </small>
 
-**Cenário 2 – Login com Credenciais Incorretas**
+### **Cenário 2 – Login com Credenciais Incorretas**
 
 <small>
 
@@ -214,11 +212,11 @@ Departamento e Gerente geral) de acesso para o projeto.
 
 </small>
 
-#### **US #21:** Como gerente, quero poder recuperar minha senha através de um processo seguro e confiável, para caso eu a esqueça no futuro. 
+### **US #21:** Como gerente, quero poder recuperar minha senha através de um processo seguro e confiável, para caso eu a esqueça no futuro. 
 
 ### **Critérios de aceitação:**
 
-**Cenário 1 – Recuperação de Senha com Sucesso**
+### **Cenário 1 – Recuperação de Senha com Sucesso**
 
 <small>
 
@@ -242,7 +240,7 @@ Departamento e Gerente geral) de acesso para o projeto.
 
 </small>
 
-**Cenário 2 – E-Mail Não Cadastrado**
+### **Cenário 2 – E-Mail Não Cadastrado**
 
 <small>
 
@@ -259,7 +257,7 @@ Departamento e Gerente geral) de acesso para o projeto.
 </small>
 
 
-**Cenário 3 – Código de Validação Incorreto**
+### **Cenário 3 – Código de Validação Incorreto**
 
 <small>
 
@@ -282,7 +280,7 @@ Departamento e Gerente geral) de acesso para o projeto.
 </small>
 
 
-**Cenário 4 – Tempo de Expiração do Código**
+### **Cenário 4 – Tempo de Expiração do Código**
 
 <small>
 
@@ -312,27 +310,6 @@ Departamento e Gerente geral) de acesso para o projeto.
 - Implementar a interface no frontend para a recuperação de senha. 
 
 </small>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## 📝  Modelo do Banco de Dados
