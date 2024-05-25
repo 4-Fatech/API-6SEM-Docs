@@ -336,6 +336,20 @@ Para otimizar o desempenho do sistema, implementamos uma estratégia onde a leit
 
 Além disso, incluímos uma validação no sistema para evitar contagens negativas, garantindo que a contagem seja sempre precisa e confiável. Essa validação é crucial para manter a integridade dos dados e fornecer informações úteis para análise posterior.
 
+## Video da Sprint 3
+***Por favor, para o carregamento das gifs espere alguns segundos.***
+- Sistema de Login e Niveis de Usuarios
+![niveis de usuario](https://github.com/4-Fatech/API-6SEM-Docs/assets/88987612/d0899ce8-94c8-4f27-8a21-bb38c2bb03d4)
+- Recuperação de Senha
+![recuperar senha](https://github.com/4-Fatech/API-6SEM-Docs/assets/88987612/b0ceb03f-7854-40ec-9085-f4d385b3bdee)
+- Tela de Perfil
+![tela de perfil](https://github.com/4-Fatech/API-6SEM-Docs/assets/88987612/9fb36c56-11a9-456b-a6b5-5d947962004c)
+-Geração de Relatórios de Departamentos
+![relatorios de departamento](https://github.com/4-Fatech/API-6SEM-Docs/assets/88987612/7e4c5464-33f9-4c99-90eb-33ef2a0c1cea)
+- IA e Melhoramentos 
+[link](https://drive.google.com/drive/folders/1j6hTLl_RKR6bb-RFbEqQ4ryYUkJfwjLF?usp=sharing)
+
+
 Resultados em Gráfico: 
 
 ![alt text](Img/results.png)
