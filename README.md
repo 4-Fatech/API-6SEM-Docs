@@ -8,7 +8,7 @@
 	<a href="#-Modelo-Entidade-Relacionamento">MER</a> •
 	<a href="#-Deploy">Deploy</a> •
 	<a href="#-Vídeos-das-Sprints">Vídeos</a> • 
-	<a href="#-Autores">Autores</a>
+	<a href="#-Autores">Autores</a> • 
 	<a href="https://github.com/4-Fatech/API-6SEM-Docs/blob/main/Manual%20Do%20Usuario/MANUAL%20DO%20USU%C3%81RIO.pdf">Manual do Usuário</a>
 </p>
 
