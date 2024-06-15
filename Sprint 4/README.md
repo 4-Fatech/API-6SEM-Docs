@@ -351,14 +351,14 @@ Além disso, incluímos uma validação no sistema para evitar contagens negativ
 ![Contagem Simultânea](https://github.com/4-Fatech/API-6SEM-Docs/assets/88494278/0b21ecd9-7a75-45a1-8831-dfa40562701e)
 
 **Ver Video do projeto executando o Cenário 2**<br>
-[![Contagem Simultânea Video](https://img.shields.io/badge/Ver%20o%20Video%20no%20Drive-blue?logo=google-drive&style=for-the-badge)](https://drive.google.com/drive/folders/1tFMV5c7uYjI2JN7TYvv7vFVjLRuIpBhf?usp=drive_link)
+[![Contagem Simultânea Video](https://img.shields.io/badge/Ver%20o%20Video%20no%20Drive-blue?logo=google-drive&style=for-the-badge)](https://drive.google.com/drive/folders/1SUbwWSIX5RW0Qo3kWhCKVKkWrXbuK1Y9?usp=sharing)
 
 ### Cenário 3 – Situação de Quase Entrada na Redzone
 
 ![Situação de Quase Entrada](https://github.com/4-Fatech/API-6SEM-Docs/assets/88494278/a54e9657-ec5a-4381-b6c5-fbcca1f3755d)
 
 **Ver Video do projeto executando o Cenário 3**<br>
-[![Situação de Quase Entrada Video](https://img.shields.io/badge/Ver%20o%20Video%20no%20Drive-blue?logo=google-drive&style=for-the-badge)](https://drive.google.com/drive/folders/1tFMV5c7uYjI2JN7TYvv7vFVjLRuIpBhf?usp=drive_link)
+[![Situação de Quase Entrada Video](https://img.shields.io/badge/Ver%20o%20Video%20no%20Drive-blue?logo=google-drive&style=for-the-badge)](https://drive.google.com/drive/folders/1rHHJVgkpBkRfJ05gGmGx0tCQdvrPF6Xx?usp=sharing)
 
 ## Resultados em Gráfico
 
