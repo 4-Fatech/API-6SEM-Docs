@@ -327,46 +327,55 @@ Além disso, incluímos uma validação no sistema para evitar contagens negativ
 
 ## Video da Sprint 4
 
-***Por favor, para o carregamento das gifs espere alguns segundos.***
-Sistema de Login e Niveis de Usuarios
-!niveis de usuario
+***Por favor, para o carregamento dos GIFs espere alguns segundos.***
+
+### DASHBOARD
+![dashboard](https://github.com/4-Fatech/API-6SEM-Docs/assets/88494278/32243bd2-a568-49cc-abd0-a22f803ee07f)
+
+### PAGINA "NOT FOUND"
+![pagenotfound](https://github.com/4-Fatech/API-6SEM-Docs/assets/88494278/60cb2ef9-e4d5-4843-88fb-146f2ce258d7)
 
 
-# IA e Melhoramentos Resultados:
 
-- Cenário 1 – Fluxo Principal de Contagem de Pessoas
-![fluxo_principal_img](https://github.com/4-Fatech/API-6SEM-Docs/assets/88494278/9a767021-6f56-428e-9adb-5a7e8516d84a)
-)
+# IA e Melhoramentos Resultados
+
+### Cenário 1 – Fluxo Principal de Contagem de Pessoas
+
+![Fluxo Principal](https://github.com/4-Fatech/API-6SEM-Docs/assets/88494278/9a767021-6f56-428e-9adb-5a7e8516d84a)
+
+**Ver Video do projeto executando o Cenário 1**<br>
+[![Fluxo Principal Video](https://img.shields.io/badge/Ver%20o%20Video%20no%20Drive-blue?logo=google-drive&style=for-the-badge)](https://drive.google.com/drive/folders/1tFMV5c7uYjI2JN7TYvv7vFVjLRuIpBhf?usp=drive_link)
+
+### Cenário 2 – Contagem Simultânea de Entradas e Saídas
+
+![Contagem Simultânea](https://github.com/4-Fatech/API-6SEM-Docs/assets/88494278/0b21ecd9-7a75-45a1-8831-dfa40562701e)
+
+**Ver Video do projeto executando o Cenário 2**<br>
+[![Contagem Simultânea Video](https://img.shields.io/badge/Ver%20o%20Video%20no%20Drive-blue?logo=google-drive&style=for-the-badge)](https://drive.google.com/drive/folders/1tFMV5c7uYjI2JN7TYvv7vFVjLRuIpBhf?usp=drive_link)
+
+### Cenário 3 – Situação de Quase Entrada na Redzone
+
+![Situação de Quase Entrada](https://github.com/4-Fatech/API-6SEM-Docs/assets/88494278/a54e9657-ec5a-4381-b6c5-fbcca1f3755d)
+
+**Ver Video do projeto executando o Cenário 3**<br>
+[![Situação de Quase Entrada Video](https://img.shields.io/badge/Ver%20o%20Video%20no%20Drive-blue?logo=google-drive&style=for-the-badge)](https://drive.google.com/drive/folders/1tFMV5c7uYjI2JN7TYvv7vFVjLRuIpBhf?usp=drive_link)
+
+## Resultados em Gráfico
+
+### As métricas do treinamento realizado
+
+![Resultados](Img/results.png)
+
+### Cenários com diferentes distâncias requisito pela Sprint Review
 
 
-[fluxo_principal_video](https://drive.google.com/drive/folders/1tFMV5c7uYjI2JN7TYvv7vFVjLRuIpBhf?usp=drive_link)
-
-- Cenário 2 – Contagem Simultânea de Entradas e Saídas
-![contagem_simultanea_img](https://github.com/4-Fatech/API-6SEM-Docs/assets/88494278/0b21ecd9-7a75-45a1-8831-dfa40562701e)
-)
-
-[contagem_simultanea_video](https://drive.google.com/drive/folders/1tFMV5c7uYjI2JN7TYvv7vFVjLRuIpBhf?usp=drive_link)
-
-- Cenário 3 – Situação de Quase Entrada na Redzone
-![situacao_de_quase_img](https://github.com/4-Fatech/API-6SEM-Docs/assets/88494278/a54e9657-ec5a-4381-b6c5-fbcca1f3755d)
-)
-
-[fluxo_principal_video](https://drive.google.com/drive/folders/1tFMV5c7uYjI2JN7TYvv7vFVjLRuIpBhf?usp=drive_link)
-
- - Resultados em Gráfico: 
+![acuracia_media](https://github.com/4-Fatech/API-6SEM-Docs/assets/88494278/13a37b7d-d52c-42f3-b1d4-6913db9834b7)
 
 
-- As métricas do treinamento realizado: 
-![alt text](Img/results.png)
+### Média de Acurácia dos cenários desta Quarta Sprint
 
-
-- Cenários com diferentes distâncias requisito pela Sprint Review: 
-![1_5](https://github.com/4-Fatech/API-6SEM-Docs/assets/88494278/0ca8c34d-437f-4ff5-85e1-c27739092656)
-)
-
-- Media de Acurácia dos cenários desta Quarta Sprint:
 ![1_3](https://github.com/4-Fatech/API-6SEM-Docs/assets/88494278/74054659-95bc-4a72-ae83-f0456b535d98)
-)
+
 
 
 
