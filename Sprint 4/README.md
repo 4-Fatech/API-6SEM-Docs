@@ -334,34 +334,39 @@ Sistema de Login e Niveis de Usuarios
 
 # IA e Melhoramentos Resultados:
 
-Cenário 1 – Fluxo Principal de Contagem de Pessoas
-![fluxo_principal_img](https://drive.google.com/file/d/1LDav8jgMQARE2cj1U4zfUxedUBsyUbRc/view?usp=sharing)
+- Cenário 1 – Fluxo Principal de Contagem de Pessoas
+![fluxo_principal_img](https://github.com/4-Fatech/API-6SEM-Docs/assets/88494278/9a767021-6f56-428e-9adb-5a7e8516d84a)
+)
 
 
 ![fluxo_principal_video]()
 
-Cenário 2 – Contagem Simultânea de Entradas e Saídas
-![contagem_simultanea_img]()
+- Cenário 2 – Contagem Simultânea de Entradas e Saídas
+![contagem_simultanea_img](https://github.com/4-Fatech/API-6SEM-Docs/assets/88494278/0b21ecd9-7a75-45a1-8831-dfa40562701e)
+)
 
 ![contagem_simultanea_video]()
 
-Cenário 3 – Situação de Quase Entrada na Redzone
-![situacao_de_quase_img]()
+- Cenário 3 – Situação de Quase Entrada na Redzone
+![situacao_de_quase_img](https://github.com/4-Fatech/API-6SEM-Docs/assets/88494278/a54e9657-ec5a-4381-b6c5-fbcca1f3755d)
+)
 
 ![fluxo_principal_video]()
 
-Resultados em Gráfico: 
+ - Resultados em Gráfico: 
 
 
-As métricas do treinamento realizado: 
+- As métricas do treinamento realizado: 
 ![alt text](Img/results.png)
 
 
-Cenários com diferentes distâncias requisito pela Sprint Review: 
-![1_5]()
+- Cenários com diferentes distâncias requisito pela Sprint Review: 
+![1_5](https://github.com/4-Fatech/API-6SEM-Docs/assets/88494278/0ca8c34d-437f-4ff5-85e1-c27739092656)
+)
 
-Media de Acurácia dos cenários desta Quarta Sprint:
-![1_3]()
+- Media de Acurácia dos cenários desta Quarta Sprint:
+![1_3](https://github.com/4-Fatech/API-6SEM-Docs/assets/88494278/74054659-95bc-4a72-ae83-f0456b535d98)
+)
 
 
 
