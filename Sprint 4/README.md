@@ -339,19 +339,19 @@ Sistema de Login e Niveis de Usuarios
 )
 
 
-![fluxo_principal_video]()
+![fluxo_principal_video](https://drive.google.com/drive/folders/1tFMV5c7uYjI2JN7TYvv7vFVjLRuIpBhf?usp=drive_link)
 
 - Cenário 2 – Contagem Simultânea de Entradas e Saídas
 ![contagem_simultanea_img](https://github.com/4-Fatech/API-6SEM-Docs/assets/88494278/0b21ecd9-7a75-45a1-8831-dfa40562701e)
 )
 
-![contagem_simultanea_video]()
+![contagem_simultanea_video](https://drive.google.com/drive/folders/1tFMV5c7uYjI2JN7TYvv7vFVjLRuIpBhf?usp=drive_link)
 
 - Cenário 3 – Situação de Quase Entrada na Redzone
 ![situacao_de_quase_img](https://github.com/4-Fatech/API-6SEM-Docs/assets/88494278/a54e9657-ec5a-4381-b6c5-fbcca1f3755d)
 )
 
-![fluxo_principal_video]()
+![fluxo_principal_video](https://drive.google.com/drive/folders/1tFMV5c7uYjI2JN7TYvv7vFVjLRuIpBhf?usp=drive_link)
 
  - Resultados em Gráfico: 
 
