@@ -325,6 +325,44 @@ Para otimizar o desempenho do sistema, implementamos uma estratégia onde a leit
 
 Além disso, incluímos uma validação no sistema para evitar contagens negativas, garantindo que a contagem seja sempre precisa e confiável. Essa validação é crucial para manter a integridade dos dados e fornecer informações úteis para análise posterior.
 
+## Video da Sprint 4
+
+***Por favor, para o carregamento das gifs espere alguns segundos.***
+Sistema de Login e Niveis de Usuarios
+!niveis de usuario
+
+
+# IA e Melhoramentos Resultados:
+
+Cenário 1 – Fluxo Principal de Contagem de Pessoas
+![fluxo_principal_img](https://drive.google.com/file/d/1LDav8jgMQARE2cj1U4zfUxedUBsyUbRc/view?usp=sharing)
+
+
+![fluxo_principal_video]()
+
+Cenário 2 – Contagem Simultânea de Entradas e Saídas
+![contagem_simultanea_img]()
+
+![contagem_simultanea_video]()
+
+Cenário 3 – Situação de Quase Entrada na Redzone
+![situacao_de_quase_img]()
+
+![fluxo_principal_video]()
+
+Resultados em Gráfico: 
+
+
+As métricas do treinamento realizado: 
+![alt text](Img/results.png)
+
+
+Cenários com diferentes distâncias requisito pela Sprint Review: 
+![1_5]()
+
+Media de Acurácia dos cenários desta Quarta Sprint:
+![1_3]()
+
 
 
 
